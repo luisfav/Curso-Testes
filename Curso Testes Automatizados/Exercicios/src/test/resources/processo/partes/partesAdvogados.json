@@ -1,0 +1,23 @@
+
+[
+    {
+        "polo": "ativo/passivo",
+        "advogados": [
+            {
+                "oab": "123456-DF",
+                "nome": "Tomás",
+                "status": "principal/auxiliar/estagiario"
+            }
+        ],
+        "partes": [
+            {
+                "cpf_cnpj": "609.880.956-96",
+                "nome": "James T. Kirk"
+            }
+        ]
+    }
+]
+
+
+
+
